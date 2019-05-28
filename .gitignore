@@ -1,0 +1,6 @@
+VOCdevkit
+venv
+weights
+section7_4.ipynb
+.idea
+__pycache__
